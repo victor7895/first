@@ -1,1 +1,1 @@
-gell splash é burro
+gell splash é burro mas é meu amigo
