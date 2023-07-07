@@ -1,9 +1,5 @@
-# Título do meu README
+# O gellsplash is very dumb
 
-Aqui neste arquivo README teremos as informações relativas ao nosso projeto
+## Leon little dumb
 
-## Subtítulo do README
-
-- Tópico 1: top top top
-- Tópico 2: tip tip tip
-- Tópico 3: zero zero zero
+- Leon is very bad at programming
